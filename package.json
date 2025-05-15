@@ -1,8 +1,8 @@
 {
   "name": "express-auth-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple Express.js authentication application using JWT.",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "dev": "nodemon server.js",
